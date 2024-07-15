@@ -1,1 +1,1 @@
-this program performed caesar cipher that encrypt messages with shifting characters
+this program perform caesar cipher that encrypt messages with shifting characters
